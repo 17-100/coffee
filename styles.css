@@ -1,0 +1,46 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    max-width: 960px; 
+    margin: auto
+  }
+  #topnav{
+    text-align: center;
+    width: 620px; padding:24px; margin:14px; 
+    background-color: #132743;
+    color: white;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  section {
+    width: 620px; padding:24px; margin:14px
+  }
+  #content {
+    background-color: #ffcbcb; 
+  }
+  #info {
+    background-color: #ffb5b5; 
+  }
+  #menu {
+    background-color: #ffebbb;
+  }
+  #addons {
+    background-color: #fdffcd;
+  }
+  .blue-box {
+    width: 620px;  height:4px;
+    background-color: #407088;
+    color: white;
+  }
+  .green-box {
+    width: 620px; padding:24px; margin:14px; 
+    background: rgba(150, 255, 0);
+    color: rgba(0, 0, 255, 0.6);
+  }
+ 
+ /* 
+  #97cba9;
+  */
